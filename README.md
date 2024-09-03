@@ -1,7 +1,7 @@
 # CRL-Wilson-4
 
-##Info
-###Setup
+## Info
+### Setup
 
 Every time I format my computer I have a little list of software / tools I need to install for my web dev job.
 
