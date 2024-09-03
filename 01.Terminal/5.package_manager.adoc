@@ -1,0 +1,64 @@
+= Package Manager
+
+Type of challenge: *learning* +
+Duration: *30 min* +
+Team challenge: *solo*
+
+
+== Learning objectives
+
+At the end of this challenge you should be able to:
+
+* update your computer
+* install packages
+* remove packages
+* search for packages
+
+
+== Requirements
+
+This drill assumes you know how to:
+
+* consult the manual within the terminal
+
+
+== The mission
+
+// variable storing the name of the package to be installed.
+:package: chromium
+
+You need to install _{package}_ on your machine and you've been told that most
+Unix operating system have a tool for that, the *package manager*.
+
+You've heard that the package manager for *Ubuntu based distribution* is
+`apt-get`. Open your *terminal* and *read its manual* to understand it, then
+follow the instructions below. 
+
+NOTE: If you use another distribution, find out which package manager it uses
+and research it.
+
+.Instructions
+* update all the packages on you system
+* search if your distribution has _{package}_
+* install _{package}_
+* launch _{package}_
+* remove _{package}_
+
+=== Useful info
+
+There are plenty of package manager across a lot of operating system, Mac uses
+`brew`, Archlinux uses `pacman`, even languages such as NodeJS (`npm`), Python
+(`pip`) and PHP (`composer`) use them to manage dependencies.
+
+=== Resources
+
+* https://itsfoss.com/apt-get-linux-guide/[apt-get tutorial]
+
+
+== Congrats
+
+In the world of Unix/Linux you rarely download a program from its website. Rather
+each distribution as a *repository* of softwares to install, which you can
+consult with your *package manager*.
+
+image::https://media.giphy.com/media/n1koqKtJ8xffa/giphy.gif[]

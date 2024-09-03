@@ -1,0 +1,58 @@
+= RTFM - Read the Frickin' Manual
+
+Type of challenge: *learning* +
+Duration: *60 min* +
+Team Challenge: *solo*
+
+
+== Learning objectives
+
+At the end of this challenge you should be able to:
+
+* read the manual of commands
+* find out what a command does
+* understand the help flag
+
+
+== The mission
+
+The terminal can be intimidating with all these commands and text flying around.
+It's an all new world, one of _textual interface_ with rules very different from
+a more familiar _graphical interface_. Hopefully, to guide you in this new
+environment there are tools like `man`.
+
+* open a *terminal*
+* type `man man`
+* hit the `h` key
+* leave the manual
+
+You might have guessed it, `man` opens the manual for the wanted page and
+although it can be technical it remains one of the best place to learn. Still,
+if you simply want a description let's try to use `whatis`.
+
+* type `whatis man`
+* type `whatis whatis`
+
+Another great, but more concise, way to understand how to use a command is the
+help http://www.tldp.org/LDP/abs/html/standard-options.html[flag].
+
+* type `whatis --help`
+
+You won't always find a manual page, but you will usually be able to get
+informations via the help flag.
+
+*Practice by learning about `ls`, `cp` and `pwd`.*
+
+
+=== Optional
+
+An alternative to the `man` command is `info`. Do some research to learn more
+about there differences.
+
+
+== Congrats
+
+Understanding software is the most important step in using it. For remember, in
+the manual lies the *wisdom* and *madness* of the creator.
+
+image::https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif[]

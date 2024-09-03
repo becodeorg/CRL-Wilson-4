@@ -1,0 +1,51 @@
+= Permissions
+
+// links
+:permissions: https://www.guru99.com/file-permissions.html
+
+Type of challenge: *learning* +
+Duration: *30 min* +
+Team challenge: *solo*
+
+== Learning objectives
+
+At the end of this challenge you should be able to:
+
+* execute a command as root
+* check the permissions of a file
+* change the permissions of a file
+* change the owner of a file
+* change the group of a file
+
+== Requirements
+
+This briefing assumes that you know how to:
+
+* consult the manual within the terminal
+* create and read files in the terminal
+* list a directory contents
+
+== The mission
+
+You've heard of four new tools to manage {permissions}[permissions] and execute
+commands with administrative rights `sudo`, `chmod`, `chown` and `chgrp`. Open
+your *terminal* and *read their manuals* to understand them, then follow the
+instructions below.
+
+.Instructions
+
+* create a file
+* check the owner and group of the file (use `ls`)
+* change its owner to *root*
+* change its group to *root*
+* check that file's permission (use `ls`)
+* give all rights to owner and group, but none to others
+* try to print the file on screen
+* print the file with root privileges
+
+== Congrats
+
+Permissions and ownership can be tough to grasp but they allow for multiple
+people to work on the same system with all their data secured.
+
+image::https://media.giphy.com/media/xTk9ZE94CfWTe2fzMI/giphy.gif[]

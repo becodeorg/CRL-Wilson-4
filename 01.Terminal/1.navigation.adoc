@@ -1,0 +1,52 @@
+= Navigation
+
+Type of challenge: *learning* +
+Duration: *30 min* +
+Team challenge: *solo*
+
+
+== Learning objectives
+
+At the end of this challenge you should be able to:
+
+* move around the file system
+* list the content of a directory
+* get your position on the file system
+
+
+== Requirements
+
+This briefing assumes that you know how to:
+
+* consult the manual within the terminal
+
+
+== The mission
+
+You've heard of three new commands to explore the file-system `cd`, `ls` and
+`pwd`. Open your *terminal* and *read their manuals* to understand them, then
+follow the instructions below.
+
+.Instructions
+* print your location on the screen
+* print the content of your current directory
+* print the content of `/`
+* move to the folder `/bin`
+* print your new location
+* go back to your home folder
+
+=== Optional
+
+Ever wished you could teleport? Well, check out `pushd` and `popd` to get
+amazing warping power.
+
+* move to any location on your file system for a quick job
+* pop back to your previous location to get back to work
+
+
+== Congrats
+
+You can now sail across your system. If you're brave enough learn more about the
+Linux file system and understand what's the purpose of the folders in `/`.
+
+image::https://media.giphy.com/media/nXoTyepmvsJrO/giphy.gif[]

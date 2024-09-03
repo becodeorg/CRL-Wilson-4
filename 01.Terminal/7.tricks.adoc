@@ -1,0 +1,16 @@
+= Tricks
+
+This file is just a place to store useful/funny tricks in the terminal. If you
+have some, give them to your coach so that he/she can add them.
+
+
+== Cheat sheet
+
+If you ever need some quick online documentation on the command line, give a try
+to https://github.com/chubin/cheat.sh[cheat.sh]. It's a repository of cheat
+sheet, in which you can find informations about commands technologies, etc... It
+can be accessed with `curl` or with a specific command line utility `cht.sh`.
+
+.examples
+* type `curl cheat.sh/markdown`
+* type `curl cheat.sh/python/loop`

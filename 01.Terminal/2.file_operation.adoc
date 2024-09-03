@@ -1,0 +1,58 @@
+= File Operation
+
+Type of challenge: *learning* +
+Duration: *60 min* +
+Team challenge: *solo*
+
+
+== Learning objectives
+
+At the end of this challenge you should be able to:
+
+* read a file
+* create a file
+* create a folder
+* move a file
+* copy a file
+* rename a file
+* delete a file
+* delete a folder
+
+
+== Requirements
+
+This briefing assumes that you know how to:
+
+* consult the manual within the terminal
+
+
+== The mission
+
+You've heard of a bunch of new commands to work with files `cat`, `touch`,
+`mkdir`, `mv`, `cp`, `rm` and `rmdir`. Open your *terminal* and *read their
+manuals* to understand them, then follow the instructions below.
+
+.Instructions
+* create a file named `one.txt`
+* type `echo "Hello World" > one.txt`
+* print the content of that file on the screen
+* create a folder named `story`
+* move `one.txt` into that folder
+* copy `one.txt` inside the folder `story` as `two.txt`
+* print the content of both files
+* rename `one.txt` to `part_one.txt` and `two.txt` to `part_two.txt`
+* type `echo "I am a junior at BeCode." > story/part_two.txt`
+* print the content of both files simultaneously
+* remove the folder `story` and all its content
+
+There is two way to remove a folder, try to find both.
+
+
+== Congrats
+
+You are now able to manage all your files and folders in the command line.
+Although it might not be obvious, *the terminal is a very powerful and modern
+environment* which will save you lots of time if you're willing to learn how to
+use it.
+
+image::https://media.giphy.com/media/1zKRlTFQ278PtPtrV2/giphy.gif[]

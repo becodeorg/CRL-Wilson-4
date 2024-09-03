@@ -1,0 +1,20 @@
+= Terminal
+
+Welcome to the *terminal*, do each of the following challenges to learn how to
+survive within the command line.
+
+After which, if you want and have time between projects, you can check this
+link:./6.commands.adoc[list of commands] and file of useful command line
+link:./7.tricks.adoc[tricks].
+
+
+== Challenges
+
+* link:./0.rtfm.adoc[read the frickin' manual]
+* link:./1.navigation.adoc[navigation]
+* link:./2.file_operation.adoc[file operation]
+* link:./3.permissions.adoc[permissions]
+* link:./4.text_editor.adoc[text editor]
+* link:./5.package_manager.adoc[package manager]
+
+image::https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif[]
