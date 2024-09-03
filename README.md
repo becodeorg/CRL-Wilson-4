@@ -10,7 +10,8 @@ Every time I format my computer I have a little list of software / tools I need 
 - GitHub Desktop (not mandatory, we can install it later in the path)
 - Node.js
 - Google Chrome (Mozilla is nice to have as well)
-- Other than that, I make sure I have access to :
+  
+Other than that, I make sure I have access to :
 
 - My professional email
 - My GitHub account
@@ -21,6 +22,9 @@ And finally, in my BeCode activities, I need access to :
 - The Discord Becode server for our digital classroom.
 - The Github classroom for our assignments.
 - The Moodle platform for our course.
+
+Once its done complete this form: [https://forms.gle/1E5ENiGTt3KtbSt89](https://forms.gle/1E5ENiGTt3KtbSt89)
+
 So now let's make sure everything is set for you! (if you don't understand yet what some of those things are, worry not ! We will get there very soon)
 
 Text Editors Vs IDE's
@@ -35,6 +39,7 @@ There are a lot of different IDE's or text editors out there. Most of them are b
 We will focus on more web oriented editors: VS Code (or WebStorm).
 
 Visual Studio Code
+
 VS Code is actually a more universal Text editor, technically it's not an IDE but with the amound of extensions you can install, it is very often considered one. In short you can build your VS Code to your own needs with the help of extensions.
 
 A screen capture or image of a Visual studio code window with the extension tab open on the left
@@ -51,7 +56,7 @@ VS Code is a perfect example of how open source tools can be flexible. When you 
 Con's
 Since it's open sourced, it also relies a lot on voluntary maintenance, which is not a problem for most bigger extensions and the tool itself, but you should always be carefull when adding extensions, check if it is still maintained or actively used.
 
-Install VS Code
+[Install VS Code](https://code.visualstudio.com/)
 
 JetBrains - WebStorm
 Jetbrains is an organisation known for it's very good IDE's and some other tools. One of them is WebStorm, an IDE for web based (javascript) programming languages. There is also it's counter part PHPStorm for web based (PHP) languages, but is not yet relevant now... (maybe later if you choose to work with PHP)
