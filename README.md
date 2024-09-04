@@ -77,7 +77,6 @@ There is less "freedom" in setting up your personal prefferences. There are also
 
 Installing software and tools: Git & Git Bash
 
-
 Git and Git Bash
 "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency". It's crucial to every developer day-to-day. We'll deep dive into it very soon, but for now, make sure GIT is installed on your computer.
 
