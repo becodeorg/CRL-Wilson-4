@@ -1,0 +1,14 @@
+{
+  "name": "14-classes",
+  "version": "1.0.0",
+  "description": "In these first modules, you've written several JavaScript programs involving built-in objects like `String`, `Number`, `Array`, and `Object`. You've worked with *instances* of these objects.",
+  "main": "basic_oop.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
