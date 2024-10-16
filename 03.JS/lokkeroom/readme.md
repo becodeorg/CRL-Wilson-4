@@ -1,4 +1,4 @@
-    # Lokkeroom
+# Lokkeroom
 
 -   Repository: `lokkeroom`
 -   Type of Challenge: `Consolidation`
